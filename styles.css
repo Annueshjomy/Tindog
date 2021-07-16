@@ -1,0 +1,154 @@
+body{
+  font-family: "Montserrat";
+  font-weight: bold;
+
+}
+
+#title{
+  background-color: #ff4c68;
+
+
+}
+#features{
+
+
+  padding:7% 15%;
+  background-color: #fff;
+  position:relative;
+  z-index: 1;
+}
+
+.feature-box{
+    text-align: center;
+}
+
+.container-fluid{
+  padding:3% 15%;
+
+}
+.navbar-brand{
+  margin:30px 0px 30px 0px;
+
+}
+.nav-item{
+  margin:auto 70px auto auto;
+}
+.dog img {
+  width:60%;
+
+  transform: rotate(25deg);
+  position: absolute;
+
+}
+._pic{
+  width:auto;
+  position: absolute;
+  left:50px;
+
+}
+
+.icon{
+  margin-bottom: 10px;
+  color:#ef8172;
+
+}
+.icon:hover{
+  color:#ff4c68;
+}
+a{
+    color:black;
+}
+
+
+
+img{
+  margin-top:25px;
+}
+
+h1{
+  font-family: :"Montserrat-Black";
+  text-emphasis-color: white;
+  font-size: 3.5rem;
+  color:white;
+
+
+  line-height: 1.5;
+  margin:60px  auto;
+
+}
+
+/*testimonial*/
+
+#testimonials{
+  padding:7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+
+
+}
+h2{
+  color:#fff;
+  font-family: "Montserrat-Bold";
+  line-height: 1.5;
+  font-size: 3rem;
+}
+.testimonials-img{
+  width:15%;
+  border-radius: 100%;
+
+}
+
+
+/*press*/
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding:10px;
+
+}
+.press-img{
+  width:20%;
+  padding:5%;
+}
+
+/*pricing*/
+
+
+#pricing p {
+  text-align: center;
+  padding-bottom:5%;
+}
+#pricing h2{
+  color:black;
+  text-align: center;
+  margin-top: 3%;
+}
+.card h2{
+  color:black;
+}
+  .card-deck{
+    padding:5% 12%;
+
+
+
+  }
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: "Montserrat-black";
+  color: #fff;
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+  padding:7% 15%;
+  margin:2% auto;
+
+
+}
+#footer{
+
+  text-align:center;
+
+
+}
